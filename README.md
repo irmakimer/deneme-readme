@@ -2,6 +2,23 @@
 
 Bu proje, Pygame kütüphanesi ile geliştirilmiş 2D bir futbol şut oyunu. Oyuncu, topun açısını ve gücünü ayarlayarak kaleye şut çekmeye çalışır. Belirli bir süre içinde mümkün olduğunca fazla gol atmak hedeflenir.
 
+## 🖼️ Oyun Görselleri
+
+Aşağıda oyunda kullanılan bazı görselleri görebilirsiniz:
+
+### Menüler
+![Başlangıç Menüsü](menu1.png)
+![Bitiş Menüsü](menu2.png)
+
+### Oyun
+![Oyun Şut Öncesi](oyun1.png)
+![Oyun Şut Esnasında](oyun2.png)
+
+### Şut Animasyonu
+<img src="run2.png" alt="Şut 1" width="100"/>
+<img src="run3.png" alt="Şut 2" width="100"/>
+<img src="run4.png" alt="Şut 3" width="100"/>
+
 ## 🎮 Özellikler
 
 - Açılı ve güçlü şut mekanizması
@@ -11,16 +28,6 @@ Bu proje, Pygame kütüphanesi ile geliştirilmiş 2D bir futbol şut oyunu. Oyu
 - Şut animasyonları
 - En yüksek skor kaydı (dosyada saklanır)
 - Basit menü ve oyun sonu ekranı
-
-## 🖼️ Oyun Görselleri
-
-Oyun aşağıdaki resim dosyalarını kullanır. Bu dosyaların aynı klasörde bulunması gerekir:
-
-- `stadyum.png`: Arka plan resmi
-- `run1.png`: Oyuncu durma pozisyonu
-- `run2.png`, `run3.png`, `run4.png`: Şut animasyon kareleri
-- `futboltopu.png`: Futbol topu
-- `kale.png`: Kale (hoop) görseli
 
 ## ⌨️ Kontroller
 
@@ -32,7 +39,7 @@ Oyun aşağıdaki resim dosyalarını kullanır. Bu dosyaların aynı klasörde 
 | ←   | Güç azalt |
 | SPACE | Şut çek |
 | ENTER | Menüden başla veya yeniden başlat |
-| ESC   | Menüye dön veya oyundan çık |
+| ESC   | Oyundan çık |
 
 ## 🧠 Oyun Mekanikleri
 
@@ -52,7 +59,7 @@ Oyun aşağıdaki resim dosyalarını kullanır. Bu dosyaların aynı klasörde 
 pip install pygame
 ```
 
-3. Tüm resim dosyalarıyla birlikte `futbol.py` (veya başka bir adla) dosyasını aynı klasöre yerleştir.
+3. Tüm resim dosyalarıyla birlikte `futbol.py` dosyasını aynı klasöre yerleştir.
 4. Oyunu başlat:
 
 ```bash
@@ -71,6 +78,7 @@ run4.png
 futboltopu.png
 kale.png
 highest_score.txt (otomatik oluşur)
+README.md
 ```
 
 ## 📜 Lisans
