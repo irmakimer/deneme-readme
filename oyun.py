@@ -1,6 +1,6 @@
 #Kütüphaneler
 
-import pygame
+import pygame 
 import math
 import sys
 import random
