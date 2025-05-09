@@ -7,17 +7,14 @@ Bu proje, Pygame kütüphanesi ile geliştirilmiş 2D bir futbol şut oyunu. Oyu
 Aşağıda oyunda kullanılan bazı görselleri görebilirsiniz:
 
 ### Menüler
-![Başlangıç Menüsü](menu1.png)
-![Bitiş Menüsü](menu2.png)
+
+<img src="menu1.png" alt="Başlangıç Menüsü" width="100"/>
+<img src="menu2.png" alt="Bitiş Menüsü" width="100"/>
 
 ### Oyun
-![Oyun Şut Öncesi](oyun1.png)
-![Oyun Şut Esnasında](oyun2.png)
 
-### Şut Animasyonu
-<img src="run2.png" alt="Şut 1" width="100"/>
-<img src="run3.png" alt="Şut 2" width="100"/>
-<img src="run4.png" alt="Şut 3" width="100"/>
+<img src="oyun1.png" alt="Oyun Şut Öncesi" width="100"/>
+<img src="oyun2.png" alt="Oyun Şut Esnasında" width="100"/>
 
 ## 🎮 Özellikler
 
@@ -31,15 +28,15 @@ Aşağıda oyunda kullanılan bazı görselleri görebilirsiniz:
 
 ## ⌨️ Kontroller
 
-| Tuş | İşlev |
-|-----|-------|
-| ↑   | Açı artır |
-| ↓   | Açı azalt |
-| →   | Güç artır |
-| ←   | Güç azalt |
-| SPACE | Şut çek |
+| Tuş   | İşlev                             |
+| ----- | --------------------------------- |
+| ↑     | Açı artır                         |
+| ↓     | Açı azalt                         |
+| →     | Güç artır                         |
+| ←     | Güç azalt                         |
+| SPACE | Şut çek                           |
 | ENTER | Menüden başla veya yeniden başlat |
-| ESC   | Oyundan çık |
+| ESC   | Oyundan çık                       |
 
 ## 🧠 Oyun Mekanikleri
 
