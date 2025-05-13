@@ -8,14 +8,14 @@ Aşağıda oyunda kullanılan bazı görselleri görebilirsiniz:
 
 ### Menüler
 <p float="left">
-<img src="menu1.png" alt="Başlangıç Menüsü" width="300"/>
-<img src="menu2.png" alt="Bitiş Menüsü" width="300"/>
+<img src="Resimler\menu1.png" alt="Başlangıç Menüsü" width="300"/>
+<img src="Resimler\menu2.png" alt="Bitiş Menüsü" width="300"/>
 </p>
 
 ### Oyun
 <p float="left">
-<img src="oyun1.png" alt="Oyun Şut Öncesi" width="300"/>
-<img src="oyun2.png" alt="Oyun Şut Esnasında" width="300"/>
+<img src="Resimler\oyun1.png" alt="Oyun Şut Öncesi" width="300"/>
+<img src="Resimler\oyun2.png" alt="Oyun Şut Esnasında" width="300"/>
 </p>
 
 ## 🎮 Özellikler
